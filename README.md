@@ -36,6 +36,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaustubhN12)](https://github.com/KaustubhN12/github-readme-stats)
+
 
 
 <p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhn12&" alt="kaustubhn12" /></p>
