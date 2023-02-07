@@ -36,10 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-
-
-
-<p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhn12&" alt="kaustubhn12" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark)](https://git.io/streak-stats)
 
 <p><img align="center" margin-bottom="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhn12&show_icons=true&locale=en&layout=compact" alt="kaustubhn12" /></p>
 
