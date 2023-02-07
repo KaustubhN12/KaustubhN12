@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark&align="center")](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&hide=scss&theme=tokyonight)
 
