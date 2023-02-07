@@ -27,7 +27,7 @@
 <!-- 
 <p margin="auto">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=kaustubhn12&show_icons=true&locale=en" alt="kaustubhn12" /></p> -->
 <!-- github-stats -->
-<p align="center">
+<!-- <p align="center"> -->
 <picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true&theme=dark"
@@ -39,13 +39,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-</p>
-<p align="center">
+<!-- </p> -->
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark)](https://git.io/streak-stats)
-</p>
-<p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&hide=scss&theme=tokyonight)
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&hide=scss&theme=tokyonight)
+
 
 
 
