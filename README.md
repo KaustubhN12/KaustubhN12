@@ -39,7 +39,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark)](https://git.io/streak-stats)
 
 <!-- <p><img align="center" margin-bottom="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhn12&show_icons=true&locale=en&layout=compact" alt="kaustubhn12" /></p> -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&hide=scss&theme=tokyonight)
 
 
 
