@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Nawade</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
