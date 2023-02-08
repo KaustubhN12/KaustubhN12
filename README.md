@@ -42,11 +42,9 @@
   
 </div>
 
-<!-- 
-<p margin="auto">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=kaustubhn12&show_icons=true&locale=en" alt="kaustubhn12" /></p> -->
-<!-- github-stats -->
-<p align="center">
-<picture >
+
+<p >
+<picture align="center" >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
