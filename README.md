@@ -55,11 +55,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true" />
 </picture>
-
+<div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhN12&theme=dark)](https://git.io/streak-stats)
-
+</div>
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhN12&hide=scss&theme=tokyonight)
-
+</div>
 </p>
 
 
