@@ -43,7 +43,7 @@
 </div>
 
 
-<p align="center" margin_top="20px">
+<p align="center" margin-top="20px">
 <picture  >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true&theme=dark"
