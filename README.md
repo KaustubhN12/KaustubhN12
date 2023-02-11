@@ -28,7 +28,7 @@
 
 <h2 align="center">Languages and tools: 🧰</h2>
 
-<div align="center">
+<div align="center"  margin-bottom="20px">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,7 +43,7 @@
 </div>
 
 
-<p align="center" margin-top="20px">
+<p align="center">
 <picture  >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KaustubhN12&show_icons=true&theme=dark"
