@@ -28,7 +28,7 @@
 
 <h2 align="center">Languages and tools: 🧰</h2>
 
-<div align="center"  style="margin-bottom: 30px">
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   
 </div>
-
+&nbsp;
 
 <p align="center">
 <picture  >
