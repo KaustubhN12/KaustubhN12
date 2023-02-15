@@ -64,7 +64,7 @@
 </p>
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<p align="left">
+<p align="center">
       <a href="https://www.linkedin.com/in/kaustubh-nawade-1307751a0/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="visha" ></a>
       <a title="nawadekaustubh@gmail.com" href="mailto:nawadekaustubh@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="visha" >
       </a>      
