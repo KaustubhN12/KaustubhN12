@@ -19,11 +19,11 @@
 <!-- - 📫 How to reach me nawadekaustubh@gmail.com -->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link](https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link)
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaustubh-nawade-1307751a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh nawade" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 
