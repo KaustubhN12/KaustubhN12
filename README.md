@@ -18,7 +18,7 @@
 
 <!-- - 📫 How to reach me nawadekaustubh@gmail.com -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link](https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link)
+- 📄 Know about my experiences:-[My Resume](https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link)
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
