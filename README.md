@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Nawade</h1>
 
+
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
@@ -18,6 +19,7 @@
 <!-- - 📫 How to reach me nawadekaustubh@gmail.com -->
 
 - 📄 Know about my experiences:-[My Resume](https://drive.google.com/file/d/1H8W7AGE1t3B0WIe_Z8iOtpkGf4pvI2Ab/view?usp=share_link
+
 
 <p align="left">
 </p>
